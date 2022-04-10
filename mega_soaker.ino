@@ -87,5 +87,4 @@ void loop() {
       lcd.print("Bar");
       delay(sensorDelay);
     }
-    //pressureTransducer();
 }
